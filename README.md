@@ -6,8 +6,8 @@ Martyna Pacyna
 
 ## Opis
 
-Moja gra to typowa gra o ptaszku Flappy, który podróżuje przez różne zakamarki świata.  
-Będzie się on poruszał między kolumnami, tak żeby nie uderzyć się i nie spaść
+Ta gra to typowa gra o ptaszku Zenonie, który podróżuje przez różne zakamarki świata.  
+Będzie się on poruszał między kolumnami, tak żeby nie uderzyć w żadną z nich i nie spaść
 
 ### Szczegóły
 
