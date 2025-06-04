@@ -1,16 +1,18 @@
-# -- Tytuł gry --
+# Flappy Bird "around the world"
 
 ## Autor
 
--- autor -- 
+Martyna Pacyna 
 
 ## Opis
 
--- Krótki opis twojej gry --
+Moja gra to typowa gra o ptaszku Flappy, który podróżuje przez różne zakamarki świata.  
+Będzie się on poruszał między kolumnami, tak żeby nie uderzyć się i nie spaść
 
-### -- Szczegóły --
+### Szczegóły
 
--- tu możesz dodać szczegóły, np. zasady gry--
+Sterujesz ptakiem, który automatycznie spada, a ty musisz naciskać ekran, aby ptak wzniósł się w powietrze.  
+Celem gry jest przelatywanie przez przerwy w kolumanch, nie uderzając w ich ściany ani w ziemię.
 
 
 ## Technologie
@@ -23,13 +25,11 @@
 
 ## Uruchomienie
 
--- Instrukcja uruchomienia gry. Może ona wyglądać w sposób podobny jak poniżej --
-
 1. Sklonuj repozytorium:
    
     ```sh
-    git clone <adres repozytorium>
-    cd <nazwa repozytorium>
+    git clone https://github.com/MartynaPacyna/Flappy-Bird.git
+    cd Flappy-Bird
     ```
 
 2. Zainstaluj dependencje
